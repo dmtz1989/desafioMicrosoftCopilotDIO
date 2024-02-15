@@ -1,0 +1,1 @@
+Me ajuda a criar um sistema de roladores de dados de RPG usando python
